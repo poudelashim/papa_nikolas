@@ -1,0 +1,136 @@
+/* Enquiry Form Section */
+.enquiry-form-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    background-color: #1a1a1a; /* Dark background */
+}
+
+/* Enquiry Form Card Styling */
+.enquiry-form {
+    width: 100%;
+    max-width: 500px;
+    background-color: #333;
+    padding: 30px;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Glowing Animated Outline for Card */
+.enquiry-form::before {
+    content: '';
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    right: -3px;
+    bottom: -3px;
+    border-radius: 10px;
+    background: linear-gradient(270deg, #ffdd57, #ff4500, #00ffb3, #007bff);
+    background-size: 400% 400%;
+    z-index: -1;
+    filter: blur(4px);
+    animation: glowingBorder 8s linear infinite;
+}
+
+/* Keyframes for glowing border */
+@keyframes glowingBorder {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 100% 50%;
+    }
+}
+
+/* Card Title Styling */
+.enquiry-form h2 {
+    margin-bottom: 20px;
+    color: #ffdd57;
+    font-size: 1.8rem;
+}
+
+/* Input and Textarea Styling */
+.enquiry-form input,
+.enquiry-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    background-color: #222;
+    color: #fff;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+/* Glowing effect for input fields on focus */
+.enquiry-form input:focus,
+.enquiry-form textarea:focus {
+    box-shadow: 0 0 8px 2px rgba(255, 221, 87, 0.6),
+                0 0 8px 2px rgba(255, 69, 0, 0.6),
+                0 0 8px 2px rgba(0, 255, 179, 0.6),
+                0 0 8px 2px rgba(0, 123, 255, 0.6);
+}
+
+/* Submit Button Styling */
+.submit-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #ff4500;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+    background-color: #e03e00;
+}
+
+/* Modal Styling */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.close-button {
+    margin-top: 15px;
+    padding: 8px 16px;
+    background-color: #ff4500;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.close-button:hover {
+    background-color: #e03e00;
+}

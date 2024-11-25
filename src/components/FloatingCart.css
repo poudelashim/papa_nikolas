@@ -1,0 +1,32 @@
+.floating-cart {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: orange; /* Vibrant background */
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    z-index: 1000; /* Ensure it's on top of other elements */
+}
+
+.cart-icon {
+    font-size: 24px;
+    color: white; /* White cart icon */
+}
+
+.cart-count {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background: red;
+    color: white;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 50%;
+    font-weight: bold;
+}

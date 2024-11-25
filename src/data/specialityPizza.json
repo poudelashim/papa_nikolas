@@ -1,0 +1,172 @@
+[
+    {
+        "name": "House Special (Pepperoni, Ham, Mushrooms, Green Peppers, Salami, Shrimp, Onions, Black Olives)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 24.95
+            },
+            {
+                "label": "Large",
+                "price": 29.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 33.95
+            }
+        ]
+    },
+    {
+        "name": "Papa's Special (Italian Sausage, Ham, Mushrooms, Onions, Tomatoes, Banana Peppers)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 23.95
+            },
+            {
+                "label": "Large",
+                "price": 28.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 32.95
+            }
+        ]
+    },
+    {
+        "name": "Nick's Special (Pepperoni, Ham, Mushrooms, Green Peppers, Black Olives)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 22.95
+            },
+            {
+                "label": "Large",
+                "price": 27.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 31.95
+            }
+        ]
+    },
+    {
+        "name": "Christina's Special (Ham, Feta Cheese, Red Onions, Tomatoes, Black Olives, Banana Peppers)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 23.95
+            },
+            {
+                "label": "Large",
+                "price": 28.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 32.95
+            }
+        ]
+    },
+    {
+        "name": "Greek Pizza (Ham, Feta Cheese, Red Onions, Tomatoes, Green Peppers, Black Olives)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 22.95
+            },
+            {
+                "label": "Large",
+                "price": 27.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 31.95
+            }
+        ]
+    },
+    {
+        "name": "Meat Lovers (Pepperoni, Ham, Salami, Beef Sausage, Italian Sausage)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 24.95
+            },
+            {
+                "label": "Large",
+                "price": 29.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 33.95
+            }
+        ]
+    },
+    {
+        "name": "Spanakopita Pizza (Spinach, Feta Cheese, Red Onions, Dill)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 23.95
+            },
+            {
+                "label": "Large",
+                "price": 28.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 32.95
+            }
+        ]
+    },
+    {
+        "name": "Chicken Soulvaki Pizza (Marinated Chicken, Red Onions, Tomatoes, Oregano, Dill)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 24.95
+            },
+            {
+                "label": "Large",
+                "price": 29.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 33.95
+            }
+        ]
+    },
+    {
+        "name": "Tropical Pizza (Marinated Chicken, Pineapple, Sweet and Spicy Sauce)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 23.95
+            },
+            {
+                "label": "Large",
+                "price": 28.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 32.95
+            }
+        ]
+    },
+    {
+        "name": "BBQ Chicken (BBQ Marinated Chicken, Red Onions, Green Peppers)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 23.95
+            },
+            {
+                "label": "Large",
+                "price": 28.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 32.95
+            }
+        ]
+    }
+]

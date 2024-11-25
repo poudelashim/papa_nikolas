@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.home-icon {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background-color: #007bff; /* Blue background */
+  color: white;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 50%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  z-index: 1000; /* Ensure it stays above other elements */
+  transition: transform 0.2s, background-color 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-icon:hover {
+  transform: scale(1.1);
+  background-color: #0056b3; /* Darker blue on hover */
+  cursor: pointer;
+}
+
+.home-icon svg {
+  color: white; /* Icon color */
+}
+.home-icon {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background-color: #007bff; /* Blue background */
+  color: white;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 50%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  z-index: 1000; /* Keep it on top of all elements */
+  transition: transform 0.2s, background-color 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 1; /* Fully visible by default */
+  pointer-events: auto;
+  visibility: visible;
+}
+
+.home-icon-hidden {
+  opacity: 0; /* Hidden */
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.home-icon:hover {
+  transform: scale(1.1);
+  background-color: #0056b3; /* Darker blue on hover */
+  cursor: pointer;
+}
+
+.home-icon svg {
+  color: white; /* Icon color */
+}

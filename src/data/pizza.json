@@ -1,0 +1,393 @@
+[
+    {
+        "name": "Cheese Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 19.95
+            },
+            {
+                "label": "Large",
+                "price": 23.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 26.95
+            }
+        ]
+    },
+    {
+        "name": "Pepperoni Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 20.95
+            },
+            {
+                "label": "Large",
+                "price": 24.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 27.95
+            }
+        ]
+    },
+    {
+        "name": "Ham Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 20.95
+            },
+            {
+                "label": "Large",
+                "price": 24.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 27.95
+            }
+        ]
+    },
+    {
+        "name": "Salami Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 20.95
+            },
+            {
+                "label": "Large",
+                "price": 24.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 27.95
+            }
+        ]
+    },
+    {
+        "name": "Mushroom Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 20.95
+            },
+            {
+                "label": "Large",
+                "price": 24.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 27.95
+            }
+        ]
+    },
+    {
+        "name": "Crumbly Bacon Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 20.95
+            },
+            {
+                "label": "Large",
+                "price": 24.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 27.95
+            }
+        ]
+    },
+    {
+        "name": "Beef and Onion Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Beef and Mushroom Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Ham and Tomatoes Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Hawaiian Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Ham and Mushrooms Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Pepperoni and Ham Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Pepperoni and Mushrooms Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Pepperoni and Salami Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Shrimp and Mushrooms Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Pepperoni and Crumbly Bacon Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 21.95
+            },
+            {
+                "label": "Large",
+                "price": 25.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 28.95
+            }
+        ]
+    },
+    {
+        "name": "Ham, Pepperoni and Green Peppers Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 22.95
+            },
+            {
+                "label": "Large",
+                "price": 26.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 29.95
+            }
+        ]
+    },
+    {
+        "name": "Ham, Pepperoni and Mushrooms Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 22.95
+            },
+            {
+                "label": "Large",
+                "price": 26.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 29.95
+            }
+        ]
+    },
+    {
+        "name": "Pepperoni, Mushroom and Green Peppers Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 22.95
+            },
+            {
+                "label": "Large",
+                "price": 26.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 29.95
+            }
+        ]
+    },
+    {
+        "name": "Beef, Mushrooms and Onions Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 22.95
+            },
+            {
+                "label": "Large",
+                "price": 26.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 29.95
+            }
+        ]
+    },
+    {
+        "name": "Ham, Mushrooms and Pineapples Pizza",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 22.95
+            },
+            {
+                "label": "Large",
+                "price": 26.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 29.95
+            }
+        ]
+    },
+    {
+        "name": "Honolulu Pizza (Ham, Pineapple, Banana Peppers)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 22.95
+            },
+            {
+                "label": "Large",
+                "price": 26.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 29.95
+            }
+        ]
+    },
+    {
+        "name": "Vegetarian Pizza (Mushrooms, Tomatoes, Onions, Black Olives, and Green Peppers)",
+        "sizes": [
+            {
+                "label": "Medium",
+                "price": 23.95
+            },
+            {
+                "label": "Large",
+                "price": 27.95
+            },
+            {
+                "label": "Extra Large",
+                "price": 30.95
+            }
+        ]
+    }
+]
